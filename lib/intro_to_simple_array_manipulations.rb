@@ -1,4 +1,4 @@
-def add_element(array, name)
-  array.push(name)
+def add_element(array, string)
+  array.push(string)
 end
   
