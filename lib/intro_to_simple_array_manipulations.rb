@@ -1,4 +1,4 @@
-def add_element(array, String name)
+def add_element(array, name)
   array.push(name)
 end
   
